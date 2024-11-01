@@ -31,7 +31,6 @@
     //{"key": "drpy_js_中国人线上看","name": "中国人线上看","type": 3,"api": "./lib/drpy2.min.js","ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js/中国人线上看.js"},
     {"key": "dr_爱壹帆_new","name": "愛壹帆(測試)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
     //{"key": "dr_飞兔影视","name": "飞兔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/飞兔影视.js"},
-    {"key": "欧乐","name": "欧乐","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./json/olevod.json"},
     {"key": "星星","name": "星星","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1},
     //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1},
     //{"key":"泥巴indexs","name":"泥巴(cs-jar)","type":3,"indexs":1,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://boyss180.github.io/fm/cs_20240628.jar"},	  
