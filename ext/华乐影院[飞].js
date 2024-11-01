@@ -3,7 +3,7 @@ muban.海螺3.二级.desc = '.hl-col-xs-12:eq(2)&&Text;;;.hl-col-xs-12--em:eq(3)
 var rule = {
     title:'华乐影院',
     模板:'海螺3',
-    host:'https://www.huale.tv',
+    host:'https://huale.tv',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
