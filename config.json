@@ -22,7 +22,7 @@
     //{"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
     //{"key": "js獨播","name": "js獨播","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
     {"key": "dr_小宝-edit","name": "小寶","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./ext/小宝-edit.js"},
-    {"key":"drpy_js_中国人线上看","name":"中国人线上看","type":3,"api":"./lib/drpy2.min.js","ext":"./ext/中国人线上看.js"},
+    {"key":"drpy_js_中国人线上看","name":"中国人线上看","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext":"./ext/中国人线上看.js"},
     //{"key":"dr_华乐影院[飞]","name":"華樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/华乐影院[飞].js"},  
     {"key":"huawei","name":"華為","type":1,"api":"https://cjhwba.com/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/noad.php?url=","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","大陆综艺","国产动漫","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","西部片"]},
     //{"key":"T4-heimuer","name":"木 耳","type":4,"api":"https://tang.hz.cz/power/hme?token=bec078e6","searchable":1,"changeable":1},
