@@ -1,7 +1,8 @@
 var rule = {
 	title: '中国人线上看',
 	//host: 'https://chinaqtv.co',
-        host: 'https://chinaqtw.org',
+        //host: 'https://chinaqtw.org',
+	host: 'https://chinaq.biz',
 	url: '/vodtype/fyclass.html',
 	//https://chinaqtv.co/vodsearch/.html?wd=4
 	searchUrl: '/vodsearch/.html?wd=**',
