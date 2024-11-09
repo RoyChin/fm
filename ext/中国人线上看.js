@@ -1,13 +1,12 @@
 var rule = {
 	title: '中国人线上看',
 	//host: 'https://chinaqtv.co',
-        host: 'https://chinaq.tv',
+        host: 'https://chinaqtw.org',
 	url: '/vodtype/fyclass.html',
 	//https://chinaqtv.co/vodsearch/.html?wd=4
-	//searchUrl: '/vodsearch/.html?wd=**',
-    //searchUrl: '/vodsearch/-------------.html?wd='
-	searchUrl: '/s/?wd='
-	searchable: 2,//是否启用全局搜索,
+	searchUrl: '/vodsearch/.html?wd=**',
+        //searchUrl: '/vodsearch/-------------.html?wd='
+	//searchable: 2,//是否启用全局搜索,
 	quickSearch: 0,//是否启用快速搜索,
 	filterable: 0,//是否启用分类筛选,
 	headers: { 'User-Agent': 'MOBILE_UA' },
