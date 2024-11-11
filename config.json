@@ -25,9 +25,9 @@
     {"key": "dr_小宝-edit","name": "小寶","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./ext/小宝-edit.js"},
     //{"key":"卧龙","name":"卧龙","type":1,"api":"https://wolongzyw.com/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","记录片","短片","动画片","国产动漫","欧美动漫","日本动漫","港台综艺","韩国综艺","大陆综艺","泰国剧","欧美综艺","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","短剧"]},
     //{"key":"魔都","name":"魔都","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","记录片","短片","动画片","国产动漫","欧美动漫","日本动漫","港台综艺","韩国综艺","大陆综艺","泰国剧","欧美综艺","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","短剧"]},
-    {"key":"黑木耳","name":"黑木耳","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/木耳.js"}
-    //{"key":"卧龙","name":"卧龙","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/卧龙.js"}
-    //{"key":"魔都","name":"魔都","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/魔都.js"}
+    {"key":"黑木耳","name":"黑木耳","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/木耳.js"},
+    {"key":"卧龙","name":"卧龙","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/卧龙.js"},
+    {"key":"魔都","name":"魔都","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./ext/魔都.js"},
     {"key":"中国人","name":"中国人","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext":"./ext/中国人.js"},
     {"key":"huawei","name":"華為","api":"https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list","playerType":2,"searchable":1,"quickSearch":1,"playUrl":"https://player.hw8.lol/player?url="},
     {"key":"drpy_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/荐片_ed.js"},
