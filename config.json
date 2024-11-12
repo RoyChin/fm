@@ -31,7 +31,6 @@
     {"key":"魔都","name":"魔都","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ext/魔都.js"},
     {"key":"中国人","name":"中国人","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./ext/中国人.js"},
     {"key":"中国人test","name":"中国人test","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./ext/中国人test.js"},
-    {"key":"csp_XBiuYFSP","name":"愛壹帆","type": 3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.yfsp.tv/list/{cateId}?year={year}&orderBy=1&page={catePg}","分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety#紀錄片$documentary#體育$sport"}};
     {"key":"huawei","name":"華為","api":"https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list","playerType":2,"searchable":1,"quickSearch":1,"playUrl":"https://player.hw8.lol/player?url="},
     {"key":"drpy_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/荐片_ed.js"},
     {"key":"dr_欧乐","name":"欧乐","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
