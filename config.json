@@ -37,7 +37,7 @@
     {"key":"drpy_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/荐片_ed.js"},
     {"key":"dr_欧乐","name":"欧乐","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
     {"key": "星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
-    {"key":"Lib","name" "立播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,},
+    {"key":"Lib","name" "立播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1},
     //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1},
     {"key": "賤賤","name": "賤賤","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://fm.t4tv.hz.cz/json/jianpian.json"},
     //{"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1},
