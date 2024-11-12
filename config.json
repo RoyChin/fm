@@ -56,7 +56,7 @@
     {"key": "酷狗","name": "酷狗","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
     {
       "key": "小米",
-      "name": "📺米米┃1080P",
+      "name": "小米",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
