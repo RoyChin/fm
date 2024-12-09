@@ -37,6 +37,7 @@
     {"key":"drpy_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/荐片_ed.js"},
     {"key":"dr_欧乐","name":"欧乐","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/欧乐original.js"},
     {"key":"hipy_js_4k剧院","name":"4k剧院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ext/4k剧院-1.js"},
+    {"key":"星辰[优]","name":"星辰[优]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch":1,"filterable":1,"ext":".//1732435433563-星辰[优].js"},
     {"key": "星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
     //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1},
     {"key": "賤賤","name": "賤賤","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://fm.t4tv.hz.cz/json/jianpian.json"},
