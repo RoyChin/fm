@@ -31,7 +31,8 @@
         "ext": {
             "发布地址": "https://dl.ncat1.app/",
             "数组": "<div class=\"module-item&&</a>",
-            "图片": "data-original=\"&&\"",
+            //"图片": "data-original=\"&&\"",
+            "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
             "副标题": "v-item-bottom\">&&</span>",
             "简介": "detail-desc\">&&</p >",
             "线路数组": "source-item-label&&/span>",
