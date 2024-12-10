@@ -19,6 +19,30 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
+    {
+            "key": "网飞猫",
+            "name": "🐱网飞┃猫猫｜超清",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "发布地址": "https://dl.ncat1.app/",
+                "数组": "<div class=\"module-item&&</a>",
+                "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+                "副标题": "v-item-bottom\">&&</span>",
+                "简介": "detail-desc\">&&</p >",
+                "线路数组": "source-item-label&&/span>",
+                "线路标题": ">&&<",
+                "播放数组": "<div class=\"episode-list&&</div>",
+                "搜索url": "https://www.ncat3.com:51111/search?k={wd}",
+                "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{long}-{year}-{by}-{catePg}.html",
+                "分类": "电影&连续剧&动漫&综艺纪录&短剧",
+                "分类值": "1&2&3&4&6"
+            }
+        },
     //{"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
     //{"key": "js獨播","name": "js獨播","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
     //{"key":"dr_华乐影院[飞]","name":"華樂","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./ext/华乐影院[飞].js"},
