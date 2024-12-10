@@ -16,20 +16,13 @@ var rule = {
     tab_order: ['超清', '蓝光', '极速蓝光'],
     tab_remove:['4K(高峰不卡)'],
     play_parse: true,
-    lazy: $js.toString(() => {
-		let html = request(input);
-        let url = html.match(/src: "(.*?)",/)[1];
-        log(url)
-  if (/\.(m3u8|mp4|m4a|mp3)/.test(url)) {
-    input = {
-      parse: 0,
-      jx: 0,
-      url: url,
-    };
-  } else {
-    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;
-  }
-	}),	
+    	    lazy: $js.toString(() => {
+        input = {
+            parse: 1,
+            url: input,
+            js: 'document.querySelector("#my-video video").click()',
+        }
+    }),
     limit: 20,
     推荐: '.section-box:eq(2)&&.module-box-inner&&.module-item;*;*;*;*',
     double: false,
@@ -39,8 +32,7 @@ var rule = {
         img: '.detail-pic&&img&&data-original',
         desc: '.detail-info-row-main:eq(-2)&&Text;.detail-tags&&a&&Text;.detail-tags&&a:eq(1)&&Text;.detail-info-row-main:eq(1)&&Text;.detail-info-row-main&&Text',
         content: '.detail-desc&&Text',
-        //tabs: '.source-item-label:nth-of-type(2)',
-        tabs: 'body&&.source-item-label[id]',
+        tabs: '.source-item-label:nth-of-type(2)',
         lists: '.episode-list:eq(#id) a',
     },
     搜索: '.search-result-list&&a;.title:eq(1)&&Text;*;.search-result-item-header&&Text;a&&href;.desc&&Text',
