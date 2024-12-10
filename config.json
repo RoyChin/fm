@@ -24,7 +24,7 @@
             "name": "🐱网飞┃猫猫｜超清",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/xbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
