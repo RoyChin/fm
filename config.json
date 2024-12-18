@@ -45,7 +45,7 @@
     {"key":"dr_网飞猫[优]","name":"网飞猫[优]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/网飞猫[优].js"},
     {"key":"dr_旺旺影视","name":"旺旺影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/旺旺影视.js"},
     {"key":"dr_影视工场","name":"影视工场","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/影视工场.js"},
-    {"key":"dr_TVB云播","name":"TVB云播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/TVB云播.js"},
+    //{"key":"dr_TVB云播","name":"TVB云播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/TVB云播.js"},
     {"key":"dr_星辰CT","name":"星辰CT","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/星辰CT.js"},
     {"key":"dr_小宝-edit","name":"小寶","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/小宝-edit.js"},
     {"key":"天空","name":"天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","国产动漫"," 日本动漫","欧美动漫","海外动漫","电影解说","大陆综艺","港台综艺","日韩综艺","欧美综艺","其他片","其他剧","体育赛事","短剧"]},
