@@ -19,6 +19,7 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
+    {"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","searchable":1,"changeable":1}
     {"key":"dr_4k剧院","name":"4k剧院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/4k剧院.js"},
     {"key":"dr_539影视","name":"539影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/539影视.js"},
     {"key":"dr_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/8号影院.js"},
