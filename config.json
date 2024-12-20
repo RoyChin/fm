@@ -24,7 +24,6 @@
     {"key":"dr_4k剧院","name":"4k剧院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/4k剧院.js"},
     {"key":"dr_539影视","name":"539影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/539影视.js"},
     {"key":"dr_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/8号影院.js"},
-    {"key":"dr_B站影视","name":"B站影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/B站影视.js"},
     {"key":"dr_libvio","name":"libvio","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/libvio.js"},
     {"key":"dr_voflix","name":"voflix","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/voflix.js"},
     {"key":"dr_宝片视频","name":"宝片视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/宝片视频.js"},
