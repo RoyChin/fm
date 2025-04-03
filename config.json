@@ -20,7 +20,7 @@
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
     //{"key":"T獨播","name":"獨播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/duboku.js"},
-    //{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=93caee26","searchable":1,"changeable":1},
+    {"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=93caee26","searchable":1,"changeable":1},
     //{"key":"TS-欧乐影院","name":"欧乐影院","type":4,"api":"https://tang.hz.cz/power/olelive?token=93caee26","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"huarenoktv","name":"華人","type":1,"api":"https://huaren.live/api.php/tvbox","playUrl":"json:https://parse.okhuaren.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"header":{"User-Agent":"Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/131.0.0.0Safari/537.36","Referer":""}},
     {"key":"hmys1","name":"自木耳","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"changeable":1},
