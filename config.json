@@ -20,8 +20,7 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
-    //{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
-    {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+    {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/jar/custom_spider.jar",},
     {"key":"豆瓣t","name":"豆瓣t","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":1,"changeable":1,"filterable":1,"playerType":2,"jar":"./jar/cc_20240419.jar"},
     //{"key":"T獨播","name":"獨播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/duboku.js"},
     //{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=bdef82df","searchable":1,"changeable":1},
