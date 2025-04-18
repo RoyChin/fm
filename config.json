@@ -19,6 +19,8 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
+    //{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/douban.json"},
+    {"key":"豆瓣indexs","name":"豆瓣  🔍","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
     //{"key":"T獨播","name":"獨播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/duboku.js"},
     //{"key":"TS-獨播庫","name":"獨播庫","type":4,"api":"https://tang.hz.cz/power/duboku?token=bdef82df","searchable":1,"changeable":1},
     //{"key":"TS-欧乐影院","name":"欧乐影院","type":4,"api":"https://tang.hz.cz/power/olelive?token=bdef82df","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -65,7 +67,6 @@
     {"key": "星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
     {"key": "賤賤","name":"賤賤","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json"},
     {"key": "短劇","name":"短劇","type":3,"api":"csp_Duanju","searchable":1,"changeable":0},
-    {"key": "豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/douban.json"},
     {"key": "新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60},
     {"key":"dr_磁力熊","name":"磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/cilixiong.js"},
     {"key":"4KHDR","name":"4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":60},
