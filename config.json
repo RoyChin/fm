@@ -1,9 +1,5 @@
 {
     "urls": [
-		{
-            "url": "https://roychin.github.io/fm/config-old.json",
-            "name": "roychin-old"
-        },
         {
             "url": "https://xiaolong69.github.io/tv/1.json",
             "name": "xiaolong69版本"
