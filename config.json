@@ -1,8 +1,16 @@
 {
     "urls": [
+		{
+            "url": "https://roychin.github.io/fm/configold.json",
+            "name": "roychinold"
+        },
         {
             "url": "https://xiaolong69.github.io/tv/1.json",
-            "name": "xiaolong69版本"
+            "name": "xiaolong69线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+            "name": "xiaolong69备用线路"
         },
         {
             "url": "http://www.饭太硬.com/tv",
