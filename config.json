@@ -1,21 +1,22 @@
 {
     "urls": [
         {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路"
+        },   
+        {
             "url": "https://xiaolong69.github.io/tv/1.json",
             "name": "xiaolong69线路"
         },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
-            "name": "xiaolong69备用线路"
-        },
+        //{
+        //    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+        //    "name": "xiaolong69备用线路"
+        //},
 		{
             "url": "https://roychin.github.io/fm/configold.json",
             "name": "roychin綫路"
         },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🚀饭太硬线路"
-        },                                                                                                 
+                                                                                                      
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
             "name": "🚀网盘线路"
