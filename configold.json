@@ -20,6 +20,19 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
+    {
+            "key": "玩偶",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGGGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
     //{"key":"豆瓣_ext","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json","playerType":2,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
     {"key":"豆瓣_ext","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     //{"key":"豆瓣180","name":"豆瓣180","type":3,"indexs":1,"api":"csp_DouDouGuard","searchable":1,"changeable":1,"filterable":1,"playerType":2,"jar":"./jar/cc_20240419.jar"},
