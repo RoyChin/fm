@@ -1,7 +1,8 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.com/tv",
+            //"url": "http://www.饭太硬.com/tv",
+			"url": "https://github.com/Sungen/my-TVBOX/blob/main/tvboxqq/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json",
             "name": "🚀饭太硬线路"
         },   
         {
